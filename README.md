@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel
 
-👨‍💻 Software Engineer | 🚀 Building scalable web & mobile solutions | ☁️ Cloud enthusiast
+💻​ Software Engineer | 🚀 Building scalable web & mobile solutions | ☁️ Cloud enthusiast
 
 🔭 **Currently working on:**  
 - [AllAppsUnited](https://allappsunited.com) - Integrated platform with a website and a desktop application.  
