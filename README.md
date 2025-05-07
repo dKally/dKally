@@ -3,9 +3,18 @@
 💻​ Full-Stack Engineer | 🚀 Building scalable web & mobile solutions | ☁️ Cloud & AI enthusiast  
 🌐 [Portfolio](https://jocular-custard-0fa522.netlify.app/) 
 
+##
+
 🔭 **Currently working on:**  
 - [AllAppsUnited](https://allappsunited.com) - Integrated platform with website + desktop app  
 - [NextFrameLab](https://nextframelab.online) - Dev & design projects with innovation focus
+
+#
+
+✨ **Open Source Project:**  
+ - [md-export](https://github.com/dKally/md-export) - Export Markdown to PDF (ideal for resumes/cvs) - 100% open source!
+
+---
 
 ## 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-braga-cominetti-317746229/)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://jocular-custard-0fa522.netlify.app/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniel21bragac@gmail.com)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7yab2VG6YF)
