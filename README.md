@@ -6,8 +6,8 @@
 ##
 
 🔭 **Currently working on:**  
-- [AllAppsUnited](https://allappsunited.com) - Integrated platform with website + desktop app  
-- [NextFrameLab](https://nextframelab.online) - Dev & design projects with innovation focus
+- [Nortesys](https://nortesys.com.br/) - Software Developer
+- [NextFrameLab](https://nextframelab.online) - In my free time, I'm a freelancer too
 
 #
 
