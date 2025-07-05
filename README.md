@@ -7,7 +7,7 @@
 
 🔭 **Currently working on:**  
 - [Nortesys](https://nortesys.com.br/) - Software Developer
-- [NextFrameLab](https://nextframelab.online) - In my free time, I'm a freelancer too
+- [Portfolio](https://jocular-custard-0fa522.netlify.app/) - In my free time, I'm a freelancer too
 
 #
 
