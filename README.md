@@ -6,7 +6,7 @@
 ##
 
 🔭 **Currently working on:**  
-- [EsplanadaProjetos](https://esplanadaprojetos.com.br) - Software Engineer
+- [Esplanada Projetos](https://esplanadaprojetos.com.br) - Software Engineer
 - [Portfolio](https://jocular-custard-0fa522.netlify.app/) - In my free time, I'm a freelancer too
 
 #
