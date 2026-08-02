@@ -6,7 +6,7 @@
 ##
 
 🔭 **Currently working on:**  
-- [Nortesys](https://nortesys.com.br/) - Software Developer
+- [EsplanadaProjetos](https://esplanadaprojetos.com.br) - Software Engineer
 - [Portfolio](https://jocular-custard-0fa522.netlify.app/) - In my free time, I'm a freelancer too
 
 #
